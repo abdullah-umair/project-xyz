@@ -10,3 +10,8 @@ git checkout main
 git checkout 
 git push 
 git pull
+
+
+---
+Go to target branch 
+git merge <source-branch>
